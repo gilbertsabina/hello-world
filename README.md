@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hey my name is Gilbert, and this is my first commit. 
+
+Till Valhalla.
